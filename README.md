@@ -130,4 +130,4 @@ tests/           testes automatizados
 
 ## Créditos
 
-Construído por [Iasmim Santos](https://www.linkedin.com/in/iasmim-/).
+Construído por [Iasmim Santos](https://www.linkedin.com/in/iasmim-/) com o Claude Code como par de programação.
