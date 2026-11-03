@@ -1,0 +1,4 @@
+anthropic==2.4.0
+mcp==2.3.0
+pytest==9.2.0
+pytest-asyncio==1.4.1.post1
