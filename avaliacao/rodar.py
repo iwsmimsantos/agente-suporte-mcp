@@ -46,4 +46,7 @@ async def main() -> None:
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except* anthropic.AuthenticationError:
+        sys.exit("A API recusou a chave. Use uma chave de verdade da sua conta em console.anthropic.com, no lugar de 'sua-chave'.")
